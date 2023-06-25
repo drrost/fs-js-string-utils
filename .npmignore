@@ -3,3 +3,5 @@ node_modules/
 .gitignore
 package-lock.json
 .idea/
+deploy.sh
+webpack.config.js
